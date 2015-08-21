@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="500"
+    android:fromDegrees="720"
+    android:toDegrees="0"
+    android:pivotX="50%"
+    android:pivotY="50%"
+
+/>
+<!--alpha xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="250"
+    android:fromAlpha="0.1"
+    android:toAlpha="1.0"
+/-->
+
+<!--scale    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="2000"
+    android:fromXScale="0"
+    android:fromYScale="0"
+    android:toXScale="1"
+    android:toYScale="1"
+    android:pivotX="0.5"
+    android:pivotY="0.5"
+
+/-->
